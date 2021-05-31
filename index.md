@@ -1,9 +1,13 @@
-# Welcome 
-
-This website content has been written in Markdown 
-
-## Markdown 
-- Simple 
-- Versatile 
-- Can be used to make websites 
-- Can be used for slides 
+--- 
+title: Home  
+--- 
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <h1>{{ "Hello World!" }}</h1>
+  </body>
+</html>
