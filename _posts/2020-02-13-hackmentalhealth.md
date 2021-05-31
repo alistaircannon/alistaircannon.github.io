@@ -1,5 +1,6 @@
 ---
-Title: Tea and Tech with HackMentalHealth London 
+title: Tea and Tech with HackMentalHealth London 
+author: Alistair 
 ---
 In February 2020 I had the absolute pleasure of attending another event by the fresh-faced London chapter of [HackMentalHealth](https://www.hackmentalhealth.care/london). We met at Kamet’s Central London office for an evening of “Tea and Tech”, which was exactly what it sounds like. The tech part took the form of a “mini-ideathon”, which was again, I think, exactly what it sounds like. The idea was to devise and then pitch ideas to solve a particular problem — just like a hackathon, but focusing on the idea alone.
 Tea. And tech.
