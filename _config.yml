@@ -1,1 +1,30 @@
-remote_theme:  poole/hyde 
+# remote_theme:  poole/hyde 
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Alistair Cannon
+tagline:          "My personal website" 
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://alistaircannon.co.uk
+baseurl:          /
+
+author:
+    name:           "Alistair Cannon" 
+    url:            https://twitter.com/alistaircannon 
+#   name:           'Mark Otto'
+#   url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+# version:          2.1.0
+
+# github:
+#   repo:           https://github.com/poole/hyde
