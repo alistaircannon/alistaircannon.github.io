@@ -2,7 +2,7 @@
 
 # Dependencies
 markdown:         GFM 
-highlighter:      pygments
+highlighter:      rouge 
 
 # Permalinks
 permalink:        pretty
@@ -11,7 +11,7 @@ permalink:        pretty
 # Setup
 title:            Alistair Cannon
 tagline:          "My personal website" 
-# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+# description:    'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://alistaircannon.co.uk
 baseurl:          /
 
