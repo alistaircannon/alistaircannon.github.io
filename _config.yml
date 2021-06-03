@@ -1,7 +1,7 @@
 # remote_theme:  poole/hyde 
 
 # Dependencies
-markdown:         redcarpet
+markdown:         GFM 
 highlighter:      pygments
 
 # Permalinks
