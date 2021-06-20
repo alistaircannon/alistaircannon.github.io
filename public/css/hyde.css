@@ -99,6 +99,11 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+/* Social media icons in sidebar  - Alistair custom */
+.sm-icon{
+  width: 50px;
+} 
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
