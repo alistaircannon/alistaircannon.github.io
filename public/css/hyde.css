@@ -101,7 +101,8 @@ a.sidebar-nav-item:focus {
 
 /* Social media icons in sidebar  - Alistair custom */
 .sm-icon{
-  width: 50px;
+  width: 25px; 
+  margin: 10px 0 15px 0; 
 } 
 
 /* Sticky sidebar
